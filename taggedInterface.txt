@@ -1,0 +1,1 @@
+Tagged Interface atau penanda antarmuka adalah sebuah interface yang dibuat tanpa mendeklarasikan sebuah method
